@@ -1,5 +1,9 @@
-# wp-admin-logger
+# WP Admin Logger
 
 Plugin for log User login and logout
   
-<img src="/mukhkurnia/wp-admin-logger/raw/aa7a8785f42c8de5bd70ef4fffbc35c5b538d84b/WP%20Admin%20Logger%20Plugin.png" alt="" role="presentation" width="400">
+Screenshot :  
+1. [WP Admin Logger - Plugin](https://bitbucket.org/mukhkurnia/wp-admin-logger/src/master/WP%20Admin%20Logger%20Plugin.png)  
+2. [WP Admin Logger - All Log](https://bitbucket.org/mukhkurnia/wp-admin-logger/src/master/WP%20Admin%20Logger%20All.png)  
+3. [WP Admin Logger - Trash Log](https://bitbucket.org/mukhkurnia/wp-admin-logger/src/master/WP%20Admin%20Logger%20Trash.png)  
+4. [WP Admin Logger - Search Log](https://bitbucket.org/mukhkurnia/wp-admin-logger/src/master/WP%20Admin%20Logger%20Trash.png)  
